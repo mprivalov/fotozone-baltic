@@ -1,5 +1,5 @@
 <x-app-layout>
-    <div class="max-w px-3 sm:px-5 lg:px-7">
+    <div class="max-w-screen-2xl px-3 sm:px-5 lg:px-7">
         <div class="flex flex-col pt-16 pb-4 sm:pt-24 sm:pb-5">
             <div class="flex justify-end w-full my-1 sm:mb-4">
                 <form action="{{ route('products.index') }}" method="GET" class="flex flex-row justify-between gap-3">

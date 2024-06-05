@@ -13,7 +13,7 @@
     </div>
 
     <!-- Examples -->
-    <div class="max-w px-3 sm:px-5 lg:px-7">
+    <div class="max-w-screen-2xl px-3 sm:px-5 lg:px-7">
         <div class="my-5 sm:my-10">
             <div class="flex justify-between items-center mb-5 sm:mb-10">
                 <h2 class="text-3xl dosis-semibold uppercase">Mūsu darbi</h2>
@@ -38,7 +38,7 @@
     </div>
 
     <!-- Stock -->
-    <div class="max-w px-3 sm:px-5 lg:px-7">
+    <div class="max-w-screen-2xl px-3 sm:px-5 lg:px-7">
         <div class="my-5 sm:my-10">
             <div class="flex justify-between items-center mb-5 sm:mb-10">
                 <h2 class="text-3xl dosis-semibold uppercase">Pieejams</h2>

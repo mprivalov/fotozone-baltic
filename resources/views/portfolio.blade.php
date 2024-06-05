@@ -1,5 +1,5 @@
 <x-app-layout>
-    <div class="max-w px-3 sm:px-5 lg:px-7">
+    <div class="max-w-screen-2xl px-3 sm:px-5 lg:px-7">
         <div class="pt-16 pb-4 sm:pt-24 sm:pb-5">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-2">
                 @foreach ($examplesGallery as $exampleGalleries)

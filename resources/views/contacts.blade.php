@@ -1,5 +1,5 @@
 <x-app-layout>
-    <div class="max-w px-3 sm:px-5 lg:px-7 h-full pt-14">
+    <div class="max-w-screen-2xl px-3 sm:px-5 lg:px-7 h-full pt-14">
         <div class="my-5 sm:my-10 grid md:grid grid-cols-1 md:grid-cols-2 gap-5 text-lg">
             <div class="flex flex-col p-5 bg-gray-100 border border-gray-100 rounded-lg">
                 <h2 class="dosis-semibold mb-2">Kontaktinformācija:</h2>
