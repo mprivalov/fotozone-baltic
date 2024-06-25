@@ -8,7 +8,7 @@
     <!-- Hero Section -->
     <div class="flex justify-center items-center h-screen">
         <div class="heropattern flex justify-center items-center m-auto">
-            {{-- <h1 class="heroname alfa-slab-one-regular text-white text-2xl">Make your event unforgettable</h1> --}}
+            <h1 class="heroname alfa-slab-one-regular text-white text-2xl">Make your event unforgettable</h1>
         </div>
     </div>
 

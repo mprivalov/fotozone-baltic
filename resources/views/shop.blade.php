@@ -51,8 +51,10 @@
                 </div>
             @endforeach
             <div>
-                <p class="text-gray-400 text-sm">Jūs varat pasūtīt pa numuru (kontaktinformācija vai augšā uzspiest uz pogu telefons) vai arī uzrakstīt uz e-pastu;</p>
-                <p class="text-gray-400 text-sm">Lai pasūtījums būtu konkrēts, lūdzu, norādiet produkta ID vai identifikācijas numuru;</p>
+                <p class="text-gray-400 text-sm">Jūs varat pasūtīt pa numuru (kontaktinformācija vai augšā uzspiest uz
+                    pogu telefons) vai arī uzrakstīt uz e-pastu;</p>
+                <p class="text-gray-400 text-sm">Lai pasūtījums būtu konkrēts, lūdzu, norādiet produkta ID vai
+                    identifikācijas numuru;</p>
                 <p class="text-gray-400 text-sm">Norādītajā cenā ir iekļauta uzstādīšana un piegāde;</p>
             </div>
         </div>
